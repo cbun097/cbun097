@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <h3> 👩🏻 <a href="[cbuns.ca](https://www.cbuns.ca/)">Claire Bun</a> | 💻 Developer (She) | 🌏 Canada </h3>
+    <h3> 👩🏻 <a href="https://www.cbuns.ca/">Claire Bun</a> | 💻 Developer (She) | 🌏 Canada </h3>
 </div>
 
 ### 😊About me
