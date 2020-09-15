@@ -1,9 +1,9 @@
 <div align="center">
 <h2>Hi there 👋</h2>
 <hr>
-<a href=""><img src="./icons/twitter.png" height="45"/></a>
-<a href=""><img src="./icons/instagram.png" height="45"/></a>
-<a href=""><img src="./icons/linkedin.png" height="45"/></a>
+<a href=""><img src="https://raw.githubusercontent.com/cbun097/cbun097/master/icons/twitter.png" height="45"/></a>
+<a href=""><img src="https://raw.githubusercontent.com/cbun097/cbun097/master/icons/instagram.png" height="45"/></a>
+<a href=""><img src="https://raw.githubusercontent.com/cbun097/cbun097/master/icons/linkedin.png" height="45"/></a>
 </div>
 
 <div align="center">
